@@ -1,0 +1,18 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main()
+{
+    int a = 20;
+    int b = 5;
+    int c = 10;
+    float x = 2.5;
+    float y = 1,0;
+    float z = 20.0;
+    
+    d = 2%a+x
+    cout << "Hello world!" << endl;
+    return 0;
+}
